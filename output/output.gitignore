@@ -10,6 +10,8 @@
                 *.tif
                 *.tiff
                 *.zip
+                *.gpkg
+                *.txt
 
                 # Ignore conda environments or caches
                 .conda/
