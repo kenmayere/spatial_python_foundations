@@ -1,0 +1,16 @@
+ 
+                                    # Ignore the output folder where your shapefiles live
+                output/
+
+                # Ignore heavy spatial files everywhere
+                *.shp
+                *.shx
+                *.dbf
+                *.prj
+                *.tif
+                *.tiff
+                *.zip
+
+                # Ignore conda environments or caches
+                .conda/
+                __pycache__/
